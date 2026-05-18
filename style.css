@@ -51,10 +51,10 @@ form input {
 }
 
 .dropdown p {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0 0 0.5rem 0.25rem;
 }
 .select-container img {
-    max-width: 2rem;
+    max-width: 1.75rem;
     margin-top: 0.05rem;
     margin-left: 0.5rem;
 }
@@ -82,7 +82,7 @@ form input {
 }
 
 .msg {
-    margin: 2rem 0 2rem 0;
+    margin: 2rem 0 2rem 0.5rem;
 }
 
 form button {
